@@ -17,3 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+def response = WS.sendRequest(findTestObject("js/cm"))
+
+WS.verifyResponseStatusCode(response, 200)
+
+CustomKeywords.'api.Methods.verifyJsonProperties'(response, ["id", "postId", "name", "email", "body"])
