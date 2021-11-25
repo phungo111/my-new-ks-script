@@ -4,7 +4,7 @@
    <name>f1</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient>huyphu111@gmail.com;phu.ngo@katalon.com;</mailRecipient>
+   <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
