@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>json</name>
+   <name>ma2</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,19 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>a8681c8d-1703-49db-b5f1-ae9ef09f44ba</testSuiteGuid>
+   <testSuiteGuid>7217a117-6280-477e-a34f-f83b256fd1dd</testSuiteGuid>
    <testCaseLink>
-      <guid>c57fd0e2-b582-4747-9cfe-fc6bf37fe4cb</guid>
+      <guid>862213ec-ec6b-4976-860d-9e6967fbf712</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/js/td</testCaseId>
+      <testCaseId>Test Cases/APIs/mm</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fe2a7365-dd70-4bfd-bb76-15ffa2c537de</guid>
+      <guid>fdac2277-cbf3-4b0e-bb6a-721af84c5b05</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/js/cm</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>25867c5a-b610-44e3-9704-980a19909064</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/js/po</testCaseId>
+      <testCaseId>Test Cases/APIs/mm</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

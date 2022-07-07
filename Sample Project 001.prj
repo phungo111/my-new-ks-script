@@ -6,7 +6,7 @@
    <UUID>14af424d-1cd4-4770-a2f8-df3fc32ce2a0</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/phuhuyngo/Katalon Studio/Sample Project 001/Sample Project 001.prj</projectFileLocation>
+   <projectFileLocation>/Users/phuhuyngo/Katalon Studio/Sample Project 001 copy/Sample Project 001.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -25,5 +25,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
